@@ -23,7 +23,7 @@ const PieCharts = () => {
     ];
     const { transactions } = useTransactionStore();
 
-    const [activeIndex, setActiveIndex] = useState(-1);
+    const [, setActiveIndex] = useState(-1);
 
     const onPieEnter = (_: unknown, index: number) => {
         setActiveIndex(index);
