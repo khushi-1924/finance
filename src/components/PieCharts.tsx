@@ -80,14 +80,12 @@ const PieCharts = () => {
                             dataKey="value"
                             outerRadius={100}
                             innerRadius={70}
-                            activeIndex={activeIndex}
                             activeShape={renderActiveShape}
                             onMouseEnter={onPieEnter}
                             onMouseLeave={onPieLeave}
                             cornerRadius={6}
                             isAnimationActive={true}
                             animationDuration={500}
-                            label={({ name }) => name}
 
                             style={{ cursor: "pointer" }}
                         >
