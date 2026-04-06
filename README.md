@@ -37,11 +37,11 @@ A modern and interactive **Finance Dashboard** built using React that helps user
 
 ### Dashboard Overview
 
-![Dashboard](./assets/dashboard.png)
+![Dashboard](./src/assets/dashboard.png)
 
 ### Charts & Insights
 
-![Charts](./assets/charts.png)
+![Charts](./src/assets/charts.png)
 
 ---
 
